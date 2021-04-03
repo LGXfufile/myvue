@@ -3,6 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import VueRouter from 'vue-router'
+
+// 显示声明使用
+Vue.use(VueRouter)
 
 Vue.config.productionTip = false
 
