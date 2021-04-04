@@ -4,6 +4,7 @@
     <router-view/>
     <router-link to="/main">首页</router-link>
     <router-link to="/content">内容页</router-link>
+    <router-link to="/test">测试</router-link>
 
   </div>
 </template>
